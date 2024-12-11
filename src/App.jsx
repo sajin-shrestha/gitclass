@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-      This is new text.
+      This is branch 2.
     </>
   )
 }
